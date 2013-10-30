@@ -30,6 +30,7 @@ Contents
  * [LMS6002D IF-RF LoopBack Options.pdf][8] - A diagram showing baseband loopback connection options.
  * [LPF IF BW vs RCCAL_LPF.pdf][9] - Shows dependency between the LPF bandwidth and RCCAL_LPF (0x36[6-4]) values for the 750kHz filter.
  * [LMS6002D S-parameters application note -1.0r9.pdf][10] - documentation for the S-Parameter measurements in s2p-files.
+ * [LMS6002D_RX_PLL_Locking_Time_v2_OS.pdf][11] - PLL settling time measurements.
 
 [1]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002Dr2-DataSheet-1.2r0.pdf
 [2]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002Dr2-Programming%20and%20Calibration%20Guide-1.1r1.pdf
@@ -41,6 +42,7 @@ Contents
 [8]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D%20IF-RF%20LoopBack%20Options.pdf
 [9]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LPF%20IF%20BW%20vs%20RCCAL_LPF.pdf
 [10]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D%20S-parameters%20application%20note%20-1.0r9.pdf
+[11]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D_RX_PLL_Locking_Time_v2_OS.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
 
 Projects
