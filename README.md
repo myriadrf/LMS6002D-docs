@@ -45,7 +45,7 @@ Contents
 [10]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D%20S-parameters%20application%20note%20-1.0r9.pdf
 [11]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D_RX_PLL_Locking_Time_v2_OS.pdf
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
-[12] : https://github.com/myriadrf/LMS6002D-docs/raw/master/FAQ_v1.0r11.pdf
+[12]: https://github.com/myriadrf/LMS6002D-docs/raw/master/FAQ_v1.0r11.pdf
 
 Projects
 --------
