@@ -33,6 +33,7 @@ Contents
  * [LMS6002D_RX_PLL_Locking_Time_v2_OS.pdf][11] - PLL settling time measurements.
  * [LMS6002D_IQ_Imbalance_and_LO_leakage_vs_temperature-v3.pdf][12] - IQ Imbalance and DC Offset Variation Versus Temperature.
  * [LMS6002D_TRX_Calibration_Using_RF_Loopback-v3.pdf][13] - LMS6002 TRX Calibration Using Internal RF Loopback.
+ * [LMS6002Dr2-Improving_RxVGA2_DC_Offset_Calibration_Stability_v1.pdf][14] - Improving RxVGA2 DC Offset Calibration Stability.
 
 [1]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002Dr2-DataSheet-1.2r0.pdf
 [2]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002Dr2-Programming%20and%20Calibration%20Guide-1_1r4.pdf
@@ -48,6 +49,7 @@ Contents
 [EVB]: http://www.limemicro.com/lms6002d_eval.php
 [12]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D_IQ_Imbalance_and_LO_leakage_vs_temperature-v3.pdf
 [13]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002D_TRX_Calibration_Using_RF_Loopback-v3.pdf
+[14]: https://github.com/myriadrf/LMS6002D-docs/raw/master/LMS6002Dr2-Improving_RxVGA2_DC_Offset_Calibration_Stability_v1.pdf
 
 Projects
 --------
